@@ -1,0 +1,19 @@
+.primeraCol{
+    float:left;
+    width: 20%;
+}
+
+.segundaCol{
+    float: left;
+    width: 60%;
+}
+
+
+.terceraCol{
+    float: left;
+    width: 20%;
+}
+
+footer{
+    clear: both;
+}

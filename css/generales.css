@@ -39,3 +39,44 @@ h3 {
 	font-family: "Courier New", Courier, monospace;
 	background-color: rgb(168, 132, 132);
 }
+
+
+ul li a:hover {
+	color: rgb(54, 180, 49);
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+aside ul li a:hover {
+	color: rgb(219, 101, 101);
+	font-weight: bold;
+}
+
+ul li a:active {
+	color: rgb(224, 217, 114);
+	font-weight: bold;
+}
+
+aside ul li a:active {
+	color: rgb(28, 83, 67);
+	font-weight: bold;
+}
+
+ul li a:visited {
+	color: rgb(84, 86, 236);
+	font-weight: bold;
+}
+
+aside ul li a:visited {
+	color: rgb(231, 81, 71);
+	font-weight: bold;
+}
+
+/*tipo de letra del articulo*/
+
+#tipoLetraArticulo {
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: 13pt;
+	line-height: 1.5em;
+}
+

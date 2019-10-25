@@ -13,3 +13,29 @@ aside section h2 {
 	border-radius: 10px;
 	background-color: rgb(240, 137, 137);
 }
+
+h1 {
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border-radius: 20px;
+	background-color: rgb(140, 141, 230);
+}
+
+h2 {
+	margin-right: 70%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-radius: 10px;
+	background-color: rgb(240, 137, 137);
+}
+
+h3 {
+	margin-right: 70%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-radius: 10px;
+	font-family: "Courier New", Courier, monospace;
+	background-color: rgb(168, 132, 132);
+}

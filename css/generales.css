@@ -1,0 +1,15 @@
+/*tipo de letra del articulo*/
+
+#tipoLetraArticulo {
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: 13pt;
+	line-height: 1.5em;
+}
+aside section h2 {
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-radius: 10px;
+	background-color: rgb(240, 137, 137);
+}

@@ -1,0 +1,37 @@
+@charset "utf-8";
+/*imagenes */
+/*HEIGTH  ALTO*/
+/*WIDTH ANCHO*/
+
+header img {
+    /* */
+    height: 100%;
+    width: 99%;
+    margin-top: 10px;
+    margin-top: 10px;
+    margin-left: 10px;  
+    margin-right: 10px;
+}
+
+    section img{
+
+    background-image: url(/imgs/vivo-nex-4683.jpg);
+    height: 100%;
+    width: 100%;
+    text-align: center; /*
+    padding-top: 10px;
+    padding-bottom: 30px;
+    padding-left: 100px;
+    padding-right: 100px;*/
+    
+    
+}
+
+article img {
+    float: left;
+    height: 50%;
+    width: 50%;
+    padding-right: 20px;
+
+}
+

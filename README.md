@@ -1,3 +1,4 @@
 # Practica02-MiSitioWeb-CSS
-![pedro](https://ibb.co/jMVY0pQ)
+![alt text](https://raw.githubusercontent.com/pedrinillaisaca/Practica02-MiSitioWeb-CSS-
+/master/imgs/tel2.png) 
 

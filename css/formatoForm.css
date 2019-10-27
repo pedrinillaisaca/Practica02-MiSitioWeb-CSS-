@@ -1,0 +1,29 @@
+@charset "utf8";
+
+nav{
+    float: left;
+    width: 15%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+section{
+    float: left;
+    width: 60%;
+}
+
+
+footer{
+    clear: both;
+}
+
+form{
+    margin-top: 100px;
+    margin-bottom:100px;
+}
+
+.formulas h2{
+    border-style: solid;
+    margin-left: 170px;
+    margin-right: 180px;
+}

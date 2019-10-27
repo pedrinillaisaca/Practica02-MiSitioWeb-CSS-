@@ -1,6 +1,8 @@
 @charset "utf-8";
 /*imagenes */
+
 /*HEIGTH  ALTO*/
+
 /*WIDTH ANCHO*/
 
 header img {
@@ -9,22 +11,30 @@ header img {
     width: 99%;
     margin-top: 10px;
     margin-top: 10px;
-    margin-left: 10px;  
+    margin-left: 10px;
     margin-right: 10px;
 }
 
-    section img{
+.encabezadotell {
+    height: 50%;
+    width: 80%;
+    margin-top: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 10%;
+}
 
+section img {
     background-image: url(/imgs/vivo-nex-4683.jpg);
     height: 100%;
     width: 100%;
-    text-align: center; /*
+    text-align: center;
+    /*
     padding-top: 10px;
     padding-bottom: 30px;
     padding-left: 100px;
     padding-right: 100px;*/
-    
-    
 }
 
 article img {
@@ -32,6 +42,58 @@ article img {
     height: 50%;
     width: 50%;
     padding-right: 20px;
+}
+
+/**/
+
+aside section img {
+    float: left;
+    height: 140px;
+    width: 100px;
+    margin-right: 18px;
+}
+
+#encabezadoiphone img {
+    height: 10%;
+    width: 100%;
+}
+
+#encabezadoprocesador{
+    height: 250px;
+    width: 1300px ;
+    padding-bottom: 5%;
+}
+
+#coreCelula{
+    height: 250px;
+    width: 1300px ;
+    padding-bottom: 5%;
+}
+
+
+#coreMem{
+    height: 250px;
+    width: 1300px ;
+    padding-bottom: 5%;
+}
+
+
+#encaBac{
+    height: 250px;
+    width: 1300px ;
+    padding-bottom: 5%;
+}
+
+aside h2{
+    
+    margin-right: 10%;
+    font-family: cursive;
 
 }
+
+aside p{
+    font-family: cursive;
+}
+
+
 

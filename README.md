@@ -17,5 +17,5 @@
  ![uno](https://raw.githubusercontent.com/pedrinillaisaca/Practica02-MiSitioWeb-CSS-/master/imgs/practica/00016.jpg)
  ![uno](https://raw.githubusercontent.com/pedrinillaisaca/Practica02-MiSitioWeb-CSS-/master/imgs/practica/00017.jpg)
  ![uno](https://raw.githubusercontent.com/pedrinillaisaca/Practica02-MiSitioWeb-CSS-/master/imgs/practica/00018.jpg)
- ![uno](https://raw.githubusercontent.com/pedrinillaisaca/Practica02-MiSitioWeb-CSS-/master/imgs/practica/00019jpg)
+ ![uno](https://raw.githubusercontent.com/pedrinillaisaca/Practica02-MiSitioWeb-CSS-/master/imgs/practica/00019.jpg)
  ![uno](https://raw.githubusercontent.com/pedrinillaisaca/Practica02-MiSitioWeb-CSS-/master/imgs/practica/00020.jpg)
